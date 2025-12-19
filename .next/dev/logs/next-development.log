@@ -1,0 +1,92 @@
+[00:00:01.507] Server  LOG      ✓ Ready in 1001ms
+[00:00:07.602] Server  LOG      ○ Compiling / ...
+[00:00:10.132] Server  WARN     ⚠ [next]/internal/font/google/inter_b006827b.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/inter_b006827b.module.css
+    [next]/internal/font/google/inter_b006827b.js
+    ./app/layout.jsx
+
+
+[00:00:10.134] Server  WARN     ⚠ [next]/internal/font/google/inter_b006827b.module.css
+next/font: warning:
+Failed to download `Inter` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/inter_b006827b.module.css
+    [next]/internal/font/google/inter_b006827b.js
+    ./app/layout.jsx
+
+
+[00:00:12.017] Server  WARN     ⚠ [next]/internal/font/google/inter_b006827b.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/inter_b006827b.module.css
+    [next]/internal/font/google/inter_b006827b.js
+    ./app/layout.jsx
+
+
+[00:00:12.018] Server  WARN     ⚠ [next]/internal/font/google/inter_b006827b.module.css
+next/font: warning:
+Failed to download `Inter` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/inter_b006827b.module.css
+    [next]/internal/font/google/inter_b006827b.js
+    ./app/layout.jsx
+
+
+[00:00:12.073] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:00:42.163] Server  WARN     ⚠ [next]/internal/font/google/inter_b006827b.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/inter_b006827b.module.css
+    [next]/internal/font/google/inter_b006827b.js
+    ./app/layout.jsx
+
+
+[00:00:42.164] Server  WARN     ⚠ [next]/internal/font/google/inter_b006827b.module.css
+next/font: warning:
+Failed to download `Inter` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/inter_b006827b.module.css
+    [next]/internal/font/google/inter_b006827b.js
+    ./app/layout.jsx
+
+
+[00:00:43.095] Server  WARN     ⚠ [next]/internal/font/google/inter_b006827b.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/inter_b006827b.module.css
+    [next]/internal/font/google/inter_b006827b.js
+    ./app/layout.jsx
+
+
+[00:00:43.096] Server  WARN     ⚠ [next]/internal/font/google/inter_b006827b.module.css
+next/font: warning:
+Failed to download `Inter` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/inter_b006827b.module.css
+    [next]/internal/font/google/inter_b006827b.js
+    ./app/layout.jsx
+
+
+[00:00:43.170] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
